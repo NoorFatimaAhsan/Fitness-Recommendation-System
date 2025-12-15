@@ -1,0 +1,25 @@
+user01
+0001
+1.45
+97.5
+beginner
+dr murk
+marvi
+1.46
+40
+advanced
+noor1
+fitness
+1.575
+45
+beginner
+yousuf2025
+yyyyy
+1.44444
+40.6667
+beginner
+user1
+user12024
+1.5
+50
+intermediate
